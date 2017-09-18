@@ -1,0 +1,19 @@
+Make: Benz
+Model: R8
+License: VBG 666
+Passengers: 4
+Fuelcap: 11
+Model Year: 2014
+Kilometers per liter: 47.5
+Range: 1215
+ 
+Make: BMW
+Model: i8
+License: VBG 984
+Passengers: 4
+Fuelcap: 11
+Model Year: 2014
+Kilometers per liter: 47.5
+Range: 1215
+area: 4.5
+ 

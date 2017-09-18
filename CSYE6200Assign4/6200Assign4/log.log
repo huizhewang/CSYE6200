@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-10-18T01:01:53</date>
+  <millis>1476766913457</millis>
+  <sequence>0</sequence>
+  <logger>edu.neu.csye6200.registry.Vehicle</logger>
+  <level>CONFIG</level>
+  <class>edu.neu.csye6200.registry.VehicleTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done:)</message>
+</record>
+<record>
+  <date>2016-10-18T01:01:53</date>
+  <millis>1476766913494</millis>
+  <sequence>1</sequence>
+  <logger>edu.neu.csye6200.registry.Vehicle</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.registry.VehicleRegistry</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Logger Name: edu.neu.csye6200.registry.Vehicle</message>
+</record>
+<record>
+  <date>2016-10-18T01:01:53</date>
+  <millis>1476766913519</millis>
+  <sequence>2</sequence>
+  <logger>edu.neu.csye6200.registry.Vehicle</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.registry.RegistryIO</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Logger Name（2）: edu.neu.csye6200.registry.RegistryIO</message>
+</record>
+<record>
+  <date>2016-10-18T01:01:53</date>
+  <millis>1476766913521</millis>
+  <sequence>3</sequence>
+  <logger>edu.neu.csye6200.registry.Vehicle</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.registry.RegistryIO</class>
+  <method>save</method>
+  <thread>1</thread>
+  <message>Log for Save(): edu.neu.csye6200.registry.Vehicle</message>
+</record>
+<record>
+  <date>2016-10-18T01:01:53</date>
+  <millis>1476766913524</millis>
+  <sequence>4</sequence>
+  <logger>edu.neu.csye6200.registry.Vehicle</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.registry.RegistryIO</class>
+  <method>load</method>
+  <thread>1</thread>
+  <message>Log for Load(): edu.neu.csye6200.registry.Vehicle</message>
+</record>
+</log>
